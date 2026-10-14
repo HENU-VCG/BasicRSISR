@@ -1,0 +1,14 @@
+{
+  "repository": "https://github.com/SMBUVIS/SAWMamba",
+  "branch": "main",
+  "commit": "c2b03d3fff8af31b60958da79f9acc34f61e0eb4",
+  "commit_author_display_name": "SMBUVIS",
+  "commit_timestamp": "2025-12-22T15:46:55+08:00",
+  "audit_date": "2026-10-14",
+  "files_at_commit": [
+    "README.md"
+  ],
+  "license_file_present": false,
+  "destination_repository": "https://github.com/HENU-VCG/BasicRSISR",
+  "source_repository_preserved": true
+}

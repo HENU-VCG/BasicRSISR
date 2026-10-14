@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="34" viewBox="0 0 940 34" role="img" aria-label="Release pending; Docs draft; License pending; Benchmarks planned; Model Zoo planned; Datasets planned">
+<g font-family="Arial,Helvetica,sans-serif" font-size="13" fill="white" text-anchor="middle">
+<path d="M4 3H72V31H4Q0 31 0 27V7Q0 3 4 3" fill="#535b65"/><path d="M72 3H145Q149 3 149 7V27Q149 31 145 31H72" fill="#cc8037"/><text x="36" y="22">release</text><text x="110" y="22">pending</text>
+<rect x="159" y="3" width="120" height="28" rx="4" fill="#1b8acb"/><path d="M163 3H219V31H163Q159 31 159 27V7Q159 3 163 3" fill="#535b65"/><text x="189" y="22">docs</text><text x="249" y="22">draft</text>
+<rect x="289" y="3" width="150" height="28" rx="4" fill="#ac7b38"/><path d="M293 3H361V31H293Q289 31 289 27V7Q289 3 293 3" fill="#535b65"/><text x="325" y="22">license</text><text x="400" y="22">pending</text>
+<rect x="449" y="3" width="176" height="28" rx="4" fill="#8152c8"/><path d="M453 3H549V31H453Q449 31 449 27V7Q449 3 453 3" fill="#535b65"/><text x="499" y="22">benchmarks</text><text x="587" y="22">planned</text>
+<rect x="635" y="3" width="151" height="28" rx="4" fill="#147eb4"/><text x="710" y="22">model zoo · planned</text>
+<rect x="796" y="3" width="144" height="28" rx="4" fill="#087f8a"/><text x="868" y="22">datasets · planned</text>
+</g></svg>
